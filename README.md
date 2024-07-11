@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soham-shee
 - 👀 I’m interested in coding, and making creative stuffs from the web :)
-- 🌱 I’m currently learning cp (Basic Level) and ML(Basic Level)
+- 🌱 I’m currently learning Competitive Programming (Basic Level) , ML(Basic Level), Web Dev(Basic Level)
 - 📫 How to reach me : Just ping me at soham20s03@gmail.com
 
 <!---
